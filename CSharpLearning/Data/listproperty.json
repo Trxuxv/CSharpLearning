@@ -1,0 +1,12 @@
+﻿[
+  {
+    "propertyId": 1,
+    "description": "Gets or sets the total number of elements the internal data structure can hold without resizing.",
+    "name": "Capacity"
+  },
+  {
+    "propertyId": 2,
+    "description": "Gets or sets the total number of elements the internal data structure can hold without resizing.",
+    "name": "Capacity"
+  }
+]
